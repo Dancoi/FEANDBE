@@ -1,0 +1,11 @@
+{
+  "name": "1prfile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dancoi/FEANDBE.git",
+  "author": "Dancoi <cdanilka2005@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
